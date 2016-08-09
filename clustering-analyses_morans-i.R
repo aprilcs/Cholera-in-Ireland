@@ -9,6 +9,8 @@
 # Platform: x86_64-w64-mingw32/x64 (64-bit)
 # Running under: Windows 8 x64 (build 9200)
 
+# Add some comments
+
 #### Working directory ####
 # Clone or download the repository and set the working directory
 #  with setwd to the folder where the repository is located.
