@@ -9,7 +9,7 @@
 # Platform: x86_64-w64-mingw32/x64 (64-bit)
 # Running under: Windows 8 x64 (build 9200)
 
-# Add some comments
+# Create a new comment
 
 #### Working directory ####
 # Clone or download the repository and set the working directory
