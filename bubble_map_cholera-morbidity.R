@@ -1,4 +1,6 @@
 ##### PLOT COORDINATES AND LINES TEST #####
+#change
+
 library(sp)
 data(meuse)
 str(meuse) # what is the structure
