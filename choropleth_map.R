@@ -5,7 +5,6 @@ library(ggplot2)
 library(latticeExtra)
 library(gridBase)
 library(gridExtra)
-#edit
 
 myTheme <- custom.theme.2(pch=19, cex=0.7,
                           region=rev(brewer.pal(9, 'YlOrRd')),
